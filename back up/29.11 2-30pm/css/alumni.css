@@ -1,0 +1,25 @@
+div#main {
+	background: #DFDFDF;
+	height: 200px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+form {
+	font-size: 2em;
+	text-align: center;
+
+}
+
+table tr td {
+	border: 1px solid black;
+}
+
+table tr#header {
+	background-color: green;
+}
+
+table {
+	width: 100%;
+}

@@ -1,0 +1,24 @@
+div#main {
+	background: #DFDFDF;
+	height: 200px;
+	
+	padding: 0;
+	margin: 0;
+}
+
+form {
+	
+
+}
+
+table tr td {
+	
+}
+
+table tr#header {
+	background-color: green;
+}
+
+.donation {
+	clear: both;
+}
